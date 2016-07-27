@@ -1,4 +1,4 @@
-# Bill Blanchard (@chromakey)
+# Bill Blanchard ([@chromakey](https://github.com/chromakey))
 
 I am the instructor of this class.
 
